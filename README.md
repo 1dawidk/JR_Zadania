@@ -1,6 +1,6 @@
 ## Start
 
-1. **Stworzyć układ jak do logowania**
+1) **Stworzyć układ jak do logowania**
       Elementy układu:
         - Pole do wpisania loginu
         - Pole do wpisania hasła
@@ -19,7 +19,7 @@
         - css
         - JS
         
-2. **Dodać możliwość "wylogowania"**
+2) **Dodać możliwość "wylogowania"**
       Elementy układu:
         - Przycisk wylogowania
       
@@ -32,7 +32,7 @@
         - css
         - JS
         
-3. **Niech to wygląda jakoś "ładnie"**
+3) **Niech to wygląda jakoś "ładnie"**
 
 ## Przykład
 ![alt text](https://dawidkulpa.pl/imgs/exmpl.png "Logo Title Text 1")
