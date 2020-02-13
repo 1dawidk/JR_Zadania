@@ -34,5 +34,5 @@ START:
         
 3. **Niech to wygląda jakoś "ładnie"**
 
-##Przykład##
+## Przykład
 ![alt text](https://dawidkulpa.pl/imgs/exmpl.png "Logo Title Text 1")
