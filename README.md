@@ -3,6 +3,7 @@
 1) **Stworzyć układ jak do logowania**
       
       Elementy układu:
+      
         - Pole do wpisania loginu
         - Pole do wpisania hasła
         - Przycisk logowania
