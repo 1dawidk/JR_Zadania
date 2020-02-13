@@ -10,9 +10,11 @@
         - Pole w którym pojawiac będą się informacje
         
       Akcje:
+      
         - Po wciśnięciu przycisku logowania na stronie pojawia się informacja o poprawnym lub błędnym logowaniu
         
       Inne:
+      
         - Hasło i login ma być jedno jakieś zapisane na stałe w kodzie. Nie korzystamy chwilowo z żadnych baz danych itp.
         
         
@@ -24,13 +26,16 @@
 2) **Dodać możliwość "wylogowania"**
       
       Elementy układu:
+      
         - Przycisk wylogowania
       
       Akcje:
+      
         - Przycisk *wyloguj* ma być widoczny tylko po poprawnym zalogowaniu i ma znikać po wylogowaniu
         - Po wciśnięciu przycisku *wyloguj* informacja o poprawnym logowaniu ma zniknąć
         
       Tech. do wykorzystania:
+      
         - HTML
         - css
         - JS
