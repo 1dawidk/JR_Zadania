@@ -1,6 +1,7 @@
 ## Start
 
 1) **Stworzyć układ jak do logowania**
+      
       Elementy układu:
         - Pole do wpisania loginu
         - Pole do wpisania hasła
@@ -20,6 +21,7 @@
         - JS
         
 2) **Dodać możliwość "wylogowania"**
+      
       Elementy układu:
         - Przycisk wylogowania
       
