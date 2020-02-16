@@ -44,3 +44,19 @@
 
 ## Przykład
 ![alt text](https://dawidkulpa.pl/imgs/exmpl.png "Logo Title Text 1")
+
+# Zadanie 1
+
+1) **Gra kólko i krzyżyk**
+      
+      Raz jedna osoba raz druga. Klikam na pole i pojawia się kólko albo krzyżyk w zależności od kolejki.
+      Stronka ma wykrywać czy ktoś już wygrał czy nie i automatycznie pisać na ekranie:
+      "Gracz x wygrał" i pytać czy rewanż. 
+      
+2) **Widzę cię**
+
+      Na ekranie para oczu których zierenice podążają za myszką.
+      
+3) **Wejście, wyjście**
+
+      Na ekranie proste pole do wpisywania tekstu. W pole moge wpisać co chce i po wciśnięciu przyciku pole się czyści, a           napis pojawia się w losowym  miejscu na ekranie. Przy każdym napisie pojawiać ma się numer który to już tekst wpisany.
