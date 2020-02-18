@@ -60,3 +60,21 @@
 3) **Wejście, wyjście**
 
       Na ekranie proste pole do wpisywania tekstu. W pole moge wpisać co chce i po wciśnięciu przyciku pole się czyści, a           napis pojawia się w losowym  miejscu na ekranie. Przy każdym napisie pojawiać ma się numer który to już tekst wpisany.
+
+# Zadanie 2
+
+1. **Czas to zrobić na poważnie (Git)**
+
+      Jako że wrzucanie kodu na Dysk Google albo inne bajery jest raczej czasochłonnym zajęciem (zwłaszcza przy dużej liczbie       poprawek) to czas nauczyć się Git'a.
+      
+      Pierwszą rzeczą jaką musisz zrobić to zainstalować u siebie tego całego git'a.
+      - sudo apt install git
+      
+      Tyle wystarczy. Teraz trzeba go jakoś użyć.
+      
+      Chyba najlepszą definicją opisującą Git'a jest opis przechowywania danych przez Git'a.
+      Generalnie Git przechoduje kod którym będziesz chciał się podzielić (np. ze mną) trochę tak jakbyś go wrzucił na Dysk
+      Google. Jest jednak pewna różnica. Wrzucając kolejne wersje kodu na Git'a masz wgląd w poprzednie "wrzucenia" kodu i
+      jak wtedy wyglądały Twoje pliki. Teraz żeby te pliki nie zajęły za tydzień 100 Gb trzeba to jakoś sprytnie
+      przechowywać.
+      
